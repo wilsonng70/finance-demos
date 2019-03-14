@@ -1,0 +1,6 @@
+{
+  "name": "Finance Demos in Ruby",
+  "description": "Simple financial demos using ruby",
+  "repository": "https://github.com/UpCode-Academy/finance-demos",
+  "keywords": ["ruby", "rails"]
+}
