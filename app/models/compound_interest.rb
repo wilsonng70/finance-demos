@@ -18,7 +18,7 @@ class CompoundInterest
   private
 
   def calculate_result
-    future_value_of_principal
+    future_value_of_principal+future_value_of_additions
   end
 
   def future_value_of_principal
